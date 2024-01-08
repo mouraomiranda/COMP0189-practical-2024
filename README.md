@@ -8,7 +8,7 @@ Although you can run practial codes without virtual environment, we recommend se
 You have two options:
 
 1) using Anaconda:  
-- [Anaconda Guide]()
+- [Anaconda Guide](https://github.com/mouraomiranda/COMP0189-practical-2024/blob/main/Week-01/Anaconda.md)
 - [Anaconda Guide for M1/M2 MacBooks]()
 
 2) using python `virtualenv`:  
