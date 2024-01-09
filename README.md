@@ -16,7 +16,4 @@ You have two options:
 
 If you do not wish to set up a local environment or run it online for initial experiments, you can open the [Google Colab](https://colab.research.google.com).
 
-
-Preprocessing:
-
 [Problem notebook](https://github.com/mouraomiranda/COMP0189-practical-2024/blob/main/Week-01/week1_problems.ipynb)  
