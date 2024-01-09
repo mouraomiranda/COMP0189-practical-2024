@@ -19,4 +19,4 @@ If you do not wish to set up a local environment or run it online for initial ex
 
 Preprocessing:
 
-[Problem notebook](https://github.com/mouraomiranda/COMP0189-practical-2024/blob/main/Week-01/week1-problem.ipynb)  
+[Problem notebook]([https://github.com/mouraomiranda/COMP0189-practical-2024/blob/main/Week-01/week1-problem.ipynb](https://github.com/mouraomiranda/COMP0189-practical-2024/blob/main/Week-01/week1_problems.ipynb)https://github.com/mouraomiranda/COMP0189-practical-2024/blob/main/Week-01/week1_problems.ipynb)  
